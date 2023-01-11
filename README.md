@@ -12,7 +12,7 @@ A competição em questão possui a seguinte regra de avaliação:<br>
   </ol>
   <br>
 O organizador da competição contratou a sua equipe para criar uma aplicação capaz de receber o nome e notas dos atletas e realizar o devido cálculo. Você foi o encarregado de criar a solução utilizando a linguagem JavaScript.
-</p><br>
+</p>
 
 <h2>Especificações</h2>
 <p>
