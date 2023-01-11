@@ -1,4 +1,4 @@
-# 📝 Resumo Projeto 1 DEVstart - Pontuação dos Atletas
+# 📝 Resumo Projeto 1 DEVStart - Pontuação dos Atletas
 Trata-se de um projeto de aplicação capaz de receber o nome e as notas de um atleta, calcular a média e apresentar ao usuário, <strong>feito somente em JS</strong>.
 
 <h2>✍️Introdução</h2>
