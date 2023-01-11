@@ -19,7 +19,7 @@ O organizador da competição contratou a sua equipe para criar uma aplicação 
 Será criado uma função capaz de receber uma matriz de objetos contendo o nome do atleta e as cinco notas atribuídas. O objetivo é calcular a média das notas sem considerar a maior e menor nota do atleta. Por fim, deverá apresentar ao usuário o nome de cada atleta, seguido das notas e da média calculada.<br>
 
 <ul>
-  <li>Entrada utilizada como parâmetro:</li>
+  <li><h3>Entrada utilizada como parâmetro:</h3></li>
 </ul>
 </p>
 
@@ -30,7 +30,7 @@ Será criado uma função capaz de receber uma matriz de objetos contendo o nome
 
 <p> 
 <ul>
-  <li>Exemplo de saída </li>
+  <li><h3>Exemplo de saída</h3> </li>
 </ul>
 </p>
 <br>
