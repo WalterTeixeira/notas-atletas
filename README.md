@@ -21,6 +21,14 @@ O organizador da competição contratou a sua equipe para criar uma aplicação 
 Você deverá criar uma função capaz de receber uma matriz de objetos contendo o nome do atleta e as cinco notas atribuídas. A sua função deverá calcular a média das notas sem considerar a maior e menor nota do atleta. Por fim, deverá apresentar ao usuário o nome de cada atleta, seguido das notas e da média calculada.<br>
 Utilize a seguinte entrada:
 </p>
+
 <br>
 
+![dados de entrada](https://user-images.githubusercontent.com/105760259/211880054-459c80f2-5302-46ac-a3af-f27cdf8001cc.png)
 
+<br>
+
+<p> Exemplo de saída </p>
+<br>
+
+![exemplo_saida](https://user-images.githubusercontent.com/105760259/211880567-f9005821-abd7-4ac2-837b-fe939fb2a11c.png)
