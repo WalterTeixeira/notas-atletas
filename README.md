@@ -35,4 +35,4 @@ Será criado uma função capaz de receber uma matriz de objetos contendo o nome
 </p>
 <br>
 
-![exemplo_saida](https://user-images.githubusercontent.com/105760259/211880567-f9005821-abd7-4ac2-837b-fe939fb2a11c.png)
+![exemplo_saida](https://user-images.githubusercontent.com/105760259/211892220-81261083-27c1-45b6-af9c-2a4d141d9589.png)
